@@ -12,7 +12,7 @@
 ※ Modifications are done to moderate! The game gets boring.<br />
 ※ Please enjoy inside individuals and friends.<br /></strong>
 
-If you want to see all updates, click <a href="https://github.com/DolphiiineRe/MHXX-SaveDataEditor.wiki.git"><strong><i>here</i></strong></a>
+If you want to see all updates, click <a href="https://github.com/DolphiiineRe/MHXX-SaveDataEditor/wiki/Updates"><strong><i>here</i></strong></a>
 
 
 
